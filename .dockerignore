@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+report_images/
+prediction_report.docx
+liver_patient_model.pkl
+.git
+.vscode
+.idea

@@ -1,0 +1,30 @@
+# Virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model/artifacts
+liver_patient_model.pkl
+report_images/
+prediction_report.docx
+
+# Environment
+.env
+.env.*
+
+# Node
+node_modules/
+
+# Others
+*.log
